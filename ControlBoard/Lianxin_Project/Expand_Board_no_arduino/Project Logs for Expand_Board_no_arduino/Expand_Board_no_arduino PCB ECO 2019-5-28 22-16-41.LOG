@@ -1,0 +1,3 @@
+Change Component Comment : Designator=R2 Old Comment=RES 10k New Comment=RES 3.3k
+Added Pin To Net: NetName=RST_IMU Pin=J4-22
+Added Member To Class: ClassName=Expand_Board_no_arduino Member=Component J14 SPI

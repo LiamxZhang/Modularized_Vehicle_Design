@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_5V Pin=J16-1
+Removed Pin From Net: NetName=GND Pin=J16-2
+Removed Pin From Net: NetName=VCC_5V Pin=J17-1
+Removed Pin From Net: NetName=GND Pin=J17-2
+Removed Pin From Net: NetName=VCC_5V Pin=J18-1
+Removed Pin From Net: NetName=GND Pin=J18-2
+Removed Member From Class: ClassName=Expand_Board_no_arduino Member=J16
+Removed Member From Class: ClassName=Expand_Board_no_arduino Member=J17
+Removed Member From Class: ClassName=Expand_Board_no_arduino Member=J18

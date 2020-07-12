@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=RST_IMU Pin=J8-7
+Removed Pin From Net: NetName=TXD_PI Pin=J8-8
+Removed Pin From Net: NetName=RXD_PI Pin=J8-9
+Removed Pin From Net: NetName=TX1 Pin=J8-10
+Removed Pin From Net: NetName=RX1 Pin=J8-11
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=VCC_5V Pin=J9-4
+Removed Pin From Net: NetName=TX2 Pin=J9-7
+Removed Pin From Net: NetName=RX2 Pin=J9-8
+Removed Pin From Net: NetName=TX3 Pin=J9-9
+Removed Pin From Net: NetName=RX3 Pin=J9-10
+Removed Pin From Net: NetName=TX4 Pin=J9-11
+Removed Pin From Net: NetName=RX4 Pin=J9-12
+Removed Pin From Net: NetName=VCC_3V Pin=J9-14
+Removed Member From Class: ClassName=Expand_Board Member=J8
+Removed Member From Class: ClassName=Expand_Board Member=J9
+Change Component Comment : Designator=R7 Old Comment=RES 800 New Comment=RES 1.5k
+Added Pin To Net: NetName=TXD_PI Pin=U1-3
+Added Pin To Net: NetName=RXD_PI Pin=U1-4
+Change Class Name : Old Net Name=Expand_Board New Net Name=Expand_Board_no_arduino
+Change Room Name: Old Name=Expand_Board New Name=Expand_Board_no_arduino
+Change Room Scope: Old Scope=InComponentClass('Expand_Board') New Scope=InComponentClass('Expand_Board_no_arduino')
