@@ -1,0 +1,19 @@
+Added Component: Designator=J1(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=J2(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=J3(Pin HDR2X20/2.54mm-S)
+Added Component: Designator=J4(Pin HDR1X6/2.54mm-S)
+Added Component: Designator=J5(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=J6(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=J7(Pin HDR1X6/2.54mm-S)
+Added Net: Name=CS_SCL
+Added Net: Name=CS_SDA
+Added Net: Name=CV_VCC
+Added Net: Name=GND
+Added Net: Name=IMU_3V
+Added Pin To Net: NetName=IMU_RST Pin=J3-29
+Added Net: Name=IMU_RST
+Added Net: Name=IMU_SCL
+Added Net: Name=IMU_SDA
+Added Net: Name=VCC
+Added Class: Name=relay
+Added Room: Name=relay
