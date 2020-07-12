@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RST_SPI Pin=J4-27
+Added Pin To Net: NetName=RST_SPI Pin=J4-29
+Added Room: Name=Expand_Board

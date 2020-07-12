@@ -1,0 +1,51 @@
+Change Physical Footprint: Designator=A0 Old Footprint=TSOP65P180X145-2N New Footprint=TSOP65P180X145-2N
+Change Physical Footprint: Designator=A1 Old Footprint=TSOP65P180X145-2N New Footprint=TSOP65P180X145-2N
+Change Physical Footprint: Designator=C1 Old Footprint=0603C New Footprint=0603C
+Change Physical Footprint: Designator=Cc1 Old Footprint=0805C New Footprint=0805C
+Change Physical Footprint: Designator=Cin1 Old Footprint=0805C New Footprint=0805C
+Change Physical Footprint: Designator=D1 Old Footprint=SMA/DO-214AC New Footprint=SMA/DO-214AC
+Change Physical Footprint: Designator=D2 Old Footprint=SMA/DO-214AC New Footprint=SMA/DO-214AC
+Change Physical Footprint: Designator=D3 Old Footprint=LED-0603B New Footprint=LED-0603B
+Change Physical Footprint: Designator=EC1 Old Footprint=SMD-EC8X8X10 New Footprint=SMD-EC8X8X10
+Change Physical Footprint: Designator=EC2 Old Footprint=SMD-EC8X8X10 New Footprint=SMD-EC8X8X10
+Change Physical Footprint: Designator=ECin1 Old Footprint=SMD-EC8X8X10 New Footprint=SMD-EC8X8X10
+Change Physical Footprint: Designator=ECout1 Old Footprint=SMD-EC8X8X10 New Footprint=SMD-EC8X8X10
+Change Physical Footprint: Designator=IN1 Old Footprint=Pin HDR1X2/2.54mm-S New Footprint=Pin HDR1X2/2.54mm-S
+Change Physical Footprint: Designator=INA219 Old Footprint=INA219 New Footprint=INA219
+Change Physical Footprint: Designator=J1 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J2 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J3 Old Footprint=Pin HDR1X2/2.54mm-S New Footprint=Pin HDR1X2/2.54mm-S
+Change Physical Footprint: Designator=J4 Old Footprint=Pin HDR2X20/2.54mm-S New Footprint=Pin HDR2X20/2.54mm-S
+Change Physical Footprint: Designator=J5 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J6 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J7 Old Footprint=Pin HDR1X2/2.54mm-S New Footprint=Pin HDR1X2/2.54mm-S
+Change Physical Footprint: Designator=J8 Old Footprint=Pin HDR1X15/2.54mm-S New Footprint=Pin HDR1X15/2.54mm-S
+Change Physical Footprint: Designator=J9 Old Footprint=Pin HDR1X15/2.54mm-S New Footprint=Pin HDR1X15/2.54mm-S
+Change Physical Footprint: Designator=J10 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J11 Old Footprint=Pin HDR1X3/2.54mm-S New Footprint=Pin HDR1X3/2.54mm-S
+Change Physical Footprint: Designator=J12 Old Footprint=Pin HDR1X2/2.54mm-S New Footprint=Pin HDR1X2/2.54mm-S
+Change Physical Footprint: Designator=J13 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Pin HDR1X4/2.54mm-S
+Change Physical Footprint: Designator=J14 Old Footprint=Pin HDR2X4/2.54mm-S New Footprint=Pin HDR2X4/2.54mm-S
+Change Physical Footprint: Designator=J15 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Pin HDR1X4/2.54mm-S
+Change Physical Footprint: Designator=J16 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Pin HDR1X4/2.54mm-S
+Change Physical Footprint: Designator=J17 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Pin HDR1X4/2.54mm-S
+Change Physical Footprint: Designator=J18 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Pin HDR1X4/2.54mm-S
+Change Physical Footprint: Designator=J19 Old Footprint=Pin HDR1X2/2.54mm-S New Footprint=Pin HDR1X2/2.54mm-S
+Change Physical Footprint: Designator=L1 Old Footprint=CDRH127 New Footprint=CDRH127
+Change Physical Footprint: Designator=L2 Old Footprint=CDRH127 New Footprint=CDRH127
+Change Physical Footprint: Designator=R1 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R2 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R3 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R4 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R5 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R6 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R7 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R8 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R9 Old Footprint=2512R New Footprint=2512R
+Change Physical Footprint: Designator=R10 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R11 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=R12 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=Rc1 Old Footprint=0603R New Footprint=0603R
+Change Physical Footprint: Designator=U1 Old Footprint=SON127P1220X265-10N New Footprint=SON127P1220X265-10N
+Change Physical Footprint: Designator=U2 Old Footprint=TO-263-5 New Footprint=TO-263-5
+Change Physical Footprint: Designator=U3 Old Footprint=TO-263-5 New Footprint=TO-263-5
