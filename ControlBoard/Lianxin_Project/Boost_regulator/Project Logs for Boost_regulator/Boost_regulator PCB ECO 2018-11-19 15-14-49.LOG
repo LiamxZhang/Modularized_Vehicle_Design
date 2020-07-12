@@ -1,0 +1,49 @@
+Added Component: Designator=Cc(0805C)
+Added Component: Designator=Cin2(0805C)
+Added Component: Designator=D(SMA/DO-214AC)
+Added Component: Designator=ECin1(SMD-EC8X8X10)
+Added Component: Designator=ECout(SMD-EC8X8X10)
+Added Component: Designator=IN(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=L(CDRH127)
+Added Component: Designator=OUT(Pin HDR1X2/2.54mm-S)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=Rc(0603R)
+Added Component: Designator=U1(TO-263-5)
+Added Pin To Net: NetName=GND Pin=Cc-1
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=GND Pin=ECin1-2
+Added Pin To Net: NetName=GND Pin=ECout-2
+Added Pin To Net: NetName=GND Pin=IN-2
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCc_2 Pin=Cc-2
+Added Pin To Net: NetName=NetCc_2 Pin=Rc-1
+Added Net: Name=NetCc_2
+Added Pin To Net: NetName=NetD_A Pin=D-A
+Added Pin To Net: NetName=NetD_A Pin=L-2
+Added Pin To Net: NetName=NetD_A Pin=U1-4
+Added Net: Name=NetD_A
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetRc_2 Pin=Rc-2
+Added Pin To Net: NetName=NetRc_2 Pin=U1-1
+Added Net: Name=NetRc_2
+Added Pin To Net: NetName=VIN Pin=Cin2-2
+Added Pin To Net: NetName=VIN Pin=ECin1-1
+Added Pin To Net: NetName=VIN Pin=IN-1
+Added Pin To Net: NetName=VIN Pin=L-1
+Added Pin To Net: NetName=VIN Pin=U1-5
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=D-K
+Added Pin To Net: NetName=VOUT Pin=ECout-1
+Added Pin To Net: NetName=VOUT Pin=OUT-1
+Added Pin To Net: NetName=VOUT Pin=R1-2
+Added Net: Name=VOUT
+Added Class: Name=Boost_regulator
+Added Room: Name=Boost_regulator
