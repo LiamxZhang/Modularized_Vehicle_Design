@@ -1,0 +1,50 @@
+Added Component: Designator=A0(TSOP65P180X145-2N)
+Added Component: Designator=A1(TSOP65P180X145-2N)
+Added Component: Designator=C1(0603C)
+Added Component: Designator=INA219(INA219)
+Added Component: Designator=J1(Pin HDR1X6/2.54mm-S)
+Added Component: Designator=R1(2512R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Pin To Net: NetName=A0 Pin=A0-2
+Added Pin To Net: NetName=A0 Pin=INA219-7
+Added Pin To Net: NetName=A0 Pin=R3-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=A1-2
+Added Pin To Net: NetName=A1 Pin=INA219-8
+Added Pin To Net: NetName=A1 Pin=R2-1
+Added Net: Name=A1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=INA219-3
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=SCL Pin=INA219-5
+Added Pin To Net: NetName=SCL Pin=J1-3
+Added Pin To Net: NetName=SCL Pin=R5-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=INA219-6
+Added Pin To Net: NetName=SDA Pin=J1-4
+Added Pin To Net: NetName=SDA Pin=R4-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=A0-1
+Added Pin To Net: NetName=VCC Pin=A1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=INA219-4
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN+ Pin=INA219-1
+Added Pin To Net: NetName=VIN+ Pin=J1-6
+Added Pin To Net: NetName=VIN+ Pin=R1-1
+Added Net: Name=VIN+
+Added Pin To Net: NetName=VIN- Pin=INA219-2
+Added Pin To Net: NetName=VIN- Pin=J1-5
+Added Pin To Net: NetName=VIN- Pin=R1-2
+Added Net: Name=VIN-
+Added Class: Name=Current Sensor
+Added Room: Name=Current Sensor
